@@ -1,0 +1,141 @@
+body {
+    background: black;
+}
+
+ul {
+    border: solid #000;
+    max-width: 100%;
+    height: 800px;
+    width: 900px;
+    margin: 100px auto;
+    font-size: 20px;
+    position: relative;
+}
+
+a:link,
+a:visited {
+    display: block;
+    color: #FFFFFF;
+    background-color: grey;
+    width: 800px;
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    border-radius: 10px
+}
+
+a:hover,
+a:active {
+    background-color: rgb(56, 56, 56);
+}
+
+.imag {
+    margin-left: 22%;
+    margin-top: -10px;
+}
+
+.logo {
+    margin-left: 40%;
+    margin-bottom: -5%;
+}
+
+.deviz {
+    margin-top: 100px;
+    margin-right: 50px;
+}
+
+textarea {
+    width: 20%;
+    resize: none;
+    padding: 15px;
+    border-radius: 15px;
+    border: 0;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.06);
+    height: 150px;
+    overflow: auto;
+}
+
+.zakaz {
+    margin: 60px;
+    margin-left: 36%;
+}
+
+select {
+    width: 50%;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.svyz {
+    margin-top: -200px;
+    margin-right: 100px;
+    font-size: large;
+}
+
+.forma {
+    border-radius: 100px;
+}
+
+.zayvka {
+    margin-left: 215px;
+}
+
+.zayvka2 {
+    margin-left: 1000px;
+    color: white;
+}
+
+.perezvon {
+    margin-left: -215px;
+}
+
+#uslugi {
+    margin-top: 110px;
+    margin-left: 20px;
+}
+
+#him,
+#polir,
+#toner {
+    margin-left: 220px;
+}
+
+#hino {
+    margin-left: 210px;
+}
+
+#аutomoyka {
+    margin-left: 220px;
+    margin-top: 10px;
+}
+
+.logot {
+    margin-left: 42%;
+    margin-bottom: -5%;
+    position: relative;
+}
+
+.otzyv1,
+.otzyv2,
+.otzyv3 {
+    color: white;
+    display: block;
+    color: #FFFFFF;
+    background-color: grey;
+    width: 20%;
+    height: 80px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#e-mail {
+    margin-left: 325px;
+}
+
+#otprav {
+    margin-left: 370px;
+}
