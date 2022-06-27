@@ -1,1 +1,1 @@
-[detailing] (http://detailing.ru.xsph.ru/)
+[detailing](http://detailing.ru.xsph.ru/)
